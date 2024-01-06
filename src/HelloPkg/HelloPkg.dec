@@ -1,0 +1,13 @@
+## @file
+#   Example package dec file
+#
+#
+
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = HelloPkg
+  PACKAGE_GUID                   = 2ABC0527-C4BF-4BDF-BC37-FC9F6579CBA2
+  PACKAGE_VERSION                = 0.01
+
+[Includes]
+  Include

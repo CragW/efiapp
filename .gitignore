@@ -1,2 +1,6 @@
 .vscode
 edk2
+**/*.o
+**/*.so
+**/*.efi
+
